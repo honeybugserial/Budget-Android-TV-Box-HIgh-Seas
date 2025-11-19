@@ -49,7 +49,7 @@ Website: [https://buttonmapper.app/](https://buttonmapper.app/)
 Client application for Emby media servers. Used for streaming movies, TV shows, and personal media libraries to Android TV devices.  
 Website: [https://emby.media/emby-for-android.html](https://emby.media/emby-for-android.html)
 
-### **Projectivy-Launcher_v4.68_mod.apk**  
+### **Projectivy-Launcher_v4.68.apk**  
 Alternative Android TV launcher designed for projectors and TV boxes. Provides customizable layouts, input source shortcuts, and better navigation compared to stock OEM launchers.  
 Forum thread: [https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/)
 
