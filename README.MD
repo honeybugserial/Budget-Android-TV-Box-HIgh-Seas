@@ -1,5 +1,5 @@
 # Android TV – Budget High Seas Build
-
+- updated urls Feb 2026
 
 ## One-time
 | Item               | Cost    |
@@ -32,7 +32,7 @@
 	https://lux-iptv.tv/
 
 - Emby Share
-	https://shop.iduck.xyz
+	https://ducktv.ing/
 
 ---
 
