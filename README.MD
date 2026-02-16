@@ -1,7 +1,10 @@
 # Android TV – Budget High Seas Build
 ### Update Feb 2026
 - Updated URLs
-- Duck for both shares and live tv is probably a better option. During original post live tv was not always available on duck. I have used both since, and would say equally good. 
+- Duck for both shares and live tv is probably a better option (Previously used Lux-IPTV https://lux-iptv.shop). 
+- During original post live tv was not always available on duck. 
+
+** After 6+ months of use, service has been very good. For the cost, I really have no complaints.
 
 ## One-time
 | Item               | Cost    |
@@ -10,30 +13,21 @@
 
 ---
 
-## Recurring (Converted to Monthly)
+## 2026 Update ##
 | Service                | Billing Cycle | Cost     | Monthly Equivalent |
 |------------------------|---------------|----------|---------------------|
-| Emby-VOD (2 Streams)   | 6 months      | $28.50   | **$4.75/mo**        |
-| IPTV w/ VOD            | 6 months      | $35.00   | **$5.83/mo**        |
+| Emby-VOD (2 Streams)   | 6 months      | $43.25   | **$7.20/mo**        |
+| IPTV w/ VOD            | 6 months      | $33.00   | **$5.50/mo**        |
 
----
-
-### Monthly Total (services only)
-**$10.58 per month**
-
-### 6-Month Total (services only)
-**$63.50**
-
-### Grand Total (device + 6 months of service)
-**$108.50**
+Totals
+Monthly: $12.70
+Total (6 months): $76.25
 
 ---
 
 ## Services
-- IPTV
-	https://lux-iptv.tv/
-
-- Emby Share
+Feb 2026 Update:
+- IPTV & Emby
 	https://ducktv.ing/
 
 ---
