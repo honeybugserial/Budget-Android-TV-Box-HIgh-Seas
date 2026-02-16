@@ -13,7 +13,7 @@
 
 ---
 
-## 2026 Update ##
+## Feb 2026 Update ##
 | Service                | Billing Cycle | Cost     | Monthly Equivalent |
 |------------------------|---------------|----------|---------------------|
 | Emby-VOD (2 Streams)   | 6 months      | $43.25   | **$7.20/mo**        |
@@ -25,8 +25,7 @@ Total (6 months): $76.25
 
 ---
 
-## Services
-Feb 2026 Update:
+## Services Feb 2026
 - IPTV & Emby
 	https://ducktv.ing/
 
