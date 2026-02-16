@@ -1,5 +1,7 @@
 # Android TV – Budget High Seas Build
-- updated urls Feb 2026
+### Update Feb 2026
+- Updated URLs
+- Duck for both shares and live tv is probably a better option. During original post live tv was not always available on duck. I have used both since, and would say equally good. 
 
 ## One-time
 | Item               | Cost    |
